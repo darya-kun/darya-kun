@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @darya-kun
+- 👀 I’m interested in making cool interfaces 
+- 🌱 I’m currently learning javascript and it's frameworks
